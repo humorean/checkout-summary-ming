@@ -6,7 +6,7 @@
 `cd checkout-summary-ming`
 
 ##3 Install dependencies:
-`yarn install`
+`npm install`
 
 
 In the project directory, you can run:
