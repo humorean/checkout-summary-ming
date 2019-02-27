@@ -1,17 +1,18 @@
 ### Run following command in console to run app:
-##1. Clone the repo: go in to any directory type:
+###1. Clone the repo: go in to any directory type:
 `git clone https://github.com/humorean/checkout-summary-ming.git`
 
-##2 go in to app folder: 
+###2 go in to app folder: 
 `cd checkout-summary-ming`
 
-##3 Install dependencies:
+###3 Install dependencies:
 `npm install`
 
 
-In the project directory, you can run:
 
-##4 Start the app:
+
+###4 Start the app:
+In the project directory, you can run:
 `npm start`
 
 Runs the app in the development mode.<br>
